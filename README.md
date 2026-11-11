@@ -6,6 +6,12 @@
 
 当前版本：**1.1.1**。
 
+## 设置页预览
+
+浅色背景为 `#f9ebe9` 的无边框 Material 3 设置弹窗，可直接录制并保存自己的组合键。
+
+![快捷键设置页](./docs/images/settings.png)
+
 ## 安装
 
 1. 在浏览器中安装 Tampermonkey 或 Violentmonkey。
